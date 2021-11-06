@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajiana01
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning basic programming
+- 🌱 I’m currently learning basic programming c++
 - 📫 How to reach me @ajiananta177013@students.unnes.ac.id
 
 <!---
